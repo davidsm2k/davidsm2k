@@ -1,8 +1,8 @@
-# Seja bem vindo(a)! :relaxed:
+# Seja bem vindo(a) ! :relaxed:
 
 ### Me chamo David Santos Magalhães, e esse é o meu perfil do GitHub espero que goste.
 
-##### Vou deixar aqui um link para meu Linkedin caso tenho interesse de se conectar 
+#### Vou deixar aqui um link para meu Linkedin caso tenho interesse de se conectar 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-santos-ab2b7916a/)](https://www.linkedin.com/in/david-santos-ab2b7916a/)
 
 
@@ -14,3 +14,4 @@
 </table>
 </p>
 
+##### Obrigado pela visita ! :clap:
