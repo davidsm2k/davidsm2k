@@ -2,7 +2,7 @@
 
 ### Me chamo David Santos Magalhães, e esse é o meu perfil do GitHub espero que goste.
 
-#### Vou deixar aqui meu Linkedin caso tenho interesse de se conectar comigo.
+#### Encontro-me a disposição em meu Linkedin caso tenha alguma dúvida referente a meus projetos, uma crítica construtiva ou qualquer outro assunto.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-santos-ab2b7916a/)](https://www.linkedin.com/in/david-santos-ab2b7916a/)
 
 
