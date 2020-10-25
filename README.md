@@ -9,6 +9,7 @@
 <p align="center">
 <table>
     <tr>
+        <td><img width="430px" align="left" src="https://github-readme-stats.vercel.app/api?username=davidsm2k&show_icons=true" /></td>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsm2k&hide=html&layout=compact&theme=buefy" /></td>
     </tr>   
 </table>
