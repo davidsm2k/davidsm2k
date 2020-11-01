@@ -13,14 +13,15 @@
     <a href="https://t.me/daviddsmdv" target="_blank">
         <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white" alt="Bradge Telegram" />
     </a>
+    <a href="https://api.whatsapp.com" target="_blank">
+        <img src="https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="Bradge Whatsapp" />
+        
+    </a>
     <a href="https://www.linkedin.com/in/david-santos-ab2b7916a/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" alt="Bradge LinkedIn" />
     </a>
     <a href="mailto:davidsm2k@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white" alt="Bradge Gmail" />
-    </a>
-    <a href="https://www.instagram.com/david.magalhaess/?hl=pt-br" target="_blank">
-        <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Bradge Gmail" />        
     </a>
 </p>
 
