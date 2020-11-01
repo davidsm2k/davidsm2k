@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-    Encontro-me a disposição em minhas redes sociais abaixo caso tenha alguma dúvida referente a meus projetos, uma crítica construtiva ou qualquer outro assunto.
+    Encontro-me a disposição em minhas redes sociais abaixo, caso tenha alguma dúvida referente a meus projetos, uma crítica construtiva ou qualquer outro assunto.
 </p>
 
 <p align="center">
