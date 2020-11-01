@@ -13,7 +13,7 @@
     <a href="https://t.me/daviddsmdv" target="_blank">
         <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white" alt="Bradge Telegram" />
     </a>
-    <a href="https://api.whatsapp.com" target="_blank">
+    <a href="https://api.whatsapp.com/send?phone=5511970323525" target="_blank">
         <img src="https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="Bradge Whatsapp" />
     </a>
     <a href="https://www.linkedin.com/in/david-santos-ab2b7916a/" target="_blank">
