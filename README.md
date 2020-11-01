@@ -32,7 +32,7 @@
     </p>
     <p align="center">
         <b>As techs utilizadas nos projetos</b> <br />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsm2k&hide=html&layout=compact&theme=dark" alt="Techs utilizadas nos projetos" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsm2k&theme=dark" alt="Techs utilizadas nos projetos" />
     </p>
 </details>
 
