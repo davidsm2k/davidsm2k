@@ -24,14 +24,16 @@
     </a>
 </p>
 
-
-<p align="center">
-<table>
-    <tr>
-        <td><img width="430px" align="left" src="https://github-readme-stats.vercel.app/api?username=davidsm2k&show_icons=true" /></td>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsm2k&hide=html&layout=compact&theme=buefy" /></td>
-    </tr>   
-</table>
-</p>
+<details>
+    <summary>Minhas Estátisticas no Github</summary>
+    <p align="center">
+        <b>Estátistica do Github</b> <br />
+        <img src="https://github-readme-stats.vercel.app/api?username=davidsm2k&theme=dark&show_icons=true&include_all_commits=true" alt="Estátisticas Gerais" />
+    </p>
+    <p align="center">
+        <b>As techs utilizadas nos projetos</b> <br />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsm2k&hide=html&layout=compact&theme=dark" alt="Techs utilizadas nos projetos" />
+    </p>
+</details>
 
 #### Obrigado pela visita ! :clap:
