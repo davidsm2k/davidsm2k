@@ -15,7 +15,6 @@
     </a>
     <a href="https://api.whatsapp.com" target="_blank">
         <img src="https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="Bradge Whatsapp" />
-        
     </a>
     <a href="https://www.linkedin.com/in/david-santos-ab2b7916a/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" alt="Bradge LinkedIn" />
