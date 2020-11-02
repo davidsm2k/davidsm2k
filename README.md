@@ -31,7 +31,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=davidsm2k&theme=dark&show_icons=true&include_all_commits=true" alt="Estátisticas Gerais" />
     </p>
     <p align="center">
-        <b>As techs utilizadas nos projetos</b> <br />
+        <b>As tecnologias utilizadas nos projetos</b> <br />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsm2k&theme=dark" alt="Techs utilizadas nos projetos" />
     </p>
 </details>
