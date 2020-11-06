@@ -1,4 +1,4 @@
-<img src="./imgSuperior.jpg" alt="Parte de Cima" width=100% />
+<img src="./imgCabecalho.jpg" alt="Parte de Cima" width=100% />
 <h2 align="center">
     Seja bem vindo(a) ! :relaxed:
 </h2>
