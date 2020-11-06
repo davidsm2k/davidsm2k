@@ -25,6 +25,17 @@
 </p>
 
 <details>
+    <summary>Sobre mim</summary>
+    <p align="center">
+        Atualmente trabalho na força aérea como soldado e busco oportunidade na área de desolvimento de software, estou disposto a sair do serviço atual para entrar para area dependendo da proposta, estou estudando e criando projetos individuais para aprofundar meu conhecimento no mundo da TI.
+    </p>
+    <p align="center">
+        <b>As tecnologias utilizadas nos projetos</b> <br />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsm2k&theme=dark" alt="Techs utilizadas nos projetos" />
+    </p>
+</details>
+
+<details>
     <summary>Minhas Estátisticas no Github</summary>
     <p align="center">
         <b>Estátistica do Github</b> <br />
