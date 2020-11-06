@@ -46,4 +46,4 @@
 <p align="center">
     <b>Obrigado pela visita ! :clap:</b>
 </p>
-<img src="./imgInferior.jpg" alt="Parte de Cima" width=100% />
+<img src="./imgRodape.jpg" alt="Parte de Baixo" width=100% />
