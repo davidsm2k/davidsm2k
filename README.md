@@ -35,5 +35,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsm2k&theme=dark" alt="Techs utilizadas nos projetos" />
     </p>
 </details>
+<p align="center">
+    <b>Obrigado pela visita ! :clap:</b>
+</p>
 
-#### Obrigado pela visita ! :clap:
