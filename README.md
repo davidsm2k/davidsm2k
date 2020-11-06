@@ -1,3 +1,4 @@
+<img src="./perfilGitHubParteCima.jpg" alt="Parte de Cima" width=100% />
 <h2 align="center">
     Seja bem vindo(a) ! :relaxed:
 </h2>
@@ -45,4 +46,4 @@
 <p align="center">
     <b>Obrigado pela visita ! :clap:</b>
 </p>
-
+<img src="./perfilGitHubParteBaixo.jpg" alt="Parte de Cima" width=100% />
