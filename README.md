@@ -1,7 +1,7 @@
 <img src="./imgCabecalho.jpg" alt="Parte de Cima" width=100% />
-<h2 align="center">
+<h1 align="center">
     Seja bem vindo(a) ! 
-</h2>
+</h1>
 <p align="center">
     <b>Me chamo David Santos Magalhães, e esse é o meu perfil do GitHub espero que goste.</b>
 </p>
