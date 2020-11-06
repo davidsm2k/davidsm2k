@@ -25,14 +25,14 @@
 </p>
 
 <details>
-    <summary>Sobre mim</summary>
+    <summary><b>Sobre mim</b></summary>
     <p>
  Atualmente trabalho na força aérea como soldado e busco oportunidade na área de desolvimento de software, estou disposto a sair do serviço atual para entrar para area dependendo da proposta, estou estudando e criando projetos individuais para aprofundar meu conhecimento no mundo da TI.
     </p>
 </details>
 
 <details>
-    <summary>Minhas Estátisticas no Github</summary>
+    <summary><b>Minhas Estátisticas no Github</b></summary>
     <p align="center">
         <b>Estátistica do Github</b> <br />
         <img src="https://github-readme-stats.vercel.app/api?username=davidsm2k&theme=dark&show_icons=true&include_all_commits=true" alt="Estátisticas Gerais" />
