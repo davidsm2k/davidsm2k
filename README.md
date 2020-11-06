@@ -43,7 +43,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsm2k&theme=dark" alt="Techs utilizadas nos projetos" />
     </p>
 </details>
-<p align="center">
+<h3 align="center">
     <b>Obrigado pela visita ! :clap:</b>
-</p>
+</h3>
 <img src="./imgRodape.jpg" alt="Parte de Baixo" width=100% />
