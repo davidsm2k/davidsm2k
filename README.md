@@ -26,7 +26,7 @@
 
 <details>
     <summary>Sobre mim</summary>
-    <p align="center">
+    <p>
  Atualmente trabalho na força aérea como soldado e busco oportunidade na área de desolvimento de software, estou disposto a sair do serviço atual para entrar para area dependendo da proposta, estou estudando e criando projetos individuais para aprofundar meu conhecimento no mundo da TI.
     </p>
 </details>
