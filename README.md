@@ -1,4 +1,4 @@
-<!--<img src="./imgCabecalho.jpg" alt="Parte de Cima" width=100% />-->
+<!-- <img src="./imgCabecalho.jpg" alt="Parte de Cima" width=100% /> -->
 <h1 align="center">
     Seja bem vindo(a) ! 
 </h1>
@@ -46,4 +46,4 @@
 <h3 align="center">
     <b>Obrigado pela visita ! :clap:</b>
 </h3>
-<img src="./imgRodape.jpg" alt="Parte de Baixo" width=100% />
+<!-- <img src="./imgRodape.jpg" alt="Parte de Baixo" width=100% /> -->
