@@ -28,7 +28,7 @@
 <details>
     <summary><b>Sobre mim</b></summary>
     <p>
- Atualmente busco uma oportunidade para atuar na área de desenvolvimento de software. Estou estudando e criando projetos individuais para aprofundar meu conhecimento no mundo da TI.
+ Atualmente sou aluno da Generation Brasil no Bootcamp de Desenvolvedor Full Stack Java Jr, onde estou tendo a oportunidade de mudar minha vida e com isso ganhar um grande conhecimento para minha carreira profissional.
     </p>
 </details>
 
