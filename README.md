@@ -24,18 +24,23 @@
         <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white" alt="Bradge Gmail" />
     </a>
 </p>
-
 <details>
     <summary><b>Sobre mim</b></summary>
     <p>
- Atualmente sou aluno da Generation Brasil no Bootcamp de Desenvolvedor Full Stack Java Jr, onde estou tendo a oportunidade de mudar minha vida e com isso ganhar um grande conhecimento para minha carreira profissional.
+ Atualmente sou aluno da Generation Brasil no Bootcamp de Desenvolvedor Full Stack Java Jr, onde estou tendo a oportunidade de mudar minha vida e com isso ganhar um grande conhecimento para minha carreira profissional. 
+Para acompanhar minhas atividades durante o Bootcamp <a href="https://github.com/davidsm2k/turma19java" >clique aqui</a>.
+
+
+
 
 Experiência Profissional: 4 anos de serviço militar na Força Aérea Brasileira (Mar 2017 / Mar 2021).
 
 Formação Acadêmica: Análise e Desenvolvimento de Sistemas (Jan 2019 / Dez 2020).
 
 Objetivo Atual: Estou a procura de oportunidades para iniciar minha carreira em desenvolvimento de software. 
-    </p>
+   </p>
+
+
 </details>
 
 <details>
