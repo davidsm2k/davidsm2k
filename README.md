@@ -23,7 +23,9 @@
         <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white" alt="Bradge Gmail" />
     </a>
 <a href="https://app.netlify.com/teams/davidsm2k/overview" target="_blank">
-<img src="https://imgur.com/oU2eS4c.jpg" style="zoom:27%; alt="Bradge Netlify" /></a></p>
+<img src="https://imgur.com/3gGnIx0.jpg" alt="Bradge Netlify" /></a></p>
+
+
 
 
 <details>
@@ -50,3 +52,4 @@ Para acompanhar minhas atividades durante o Bootcamp <a href="https://github.com
     <b>Obrigado pela visita ! :clap:</b>
 </h3>
 <!-- <img src="./imgRodape.jpg" alt="Parte de Baixo" width=100% /> -->
+
