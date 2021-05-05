@@ -1,15 +1,14 @@
 <!-- <img src="./imgCabecalho.jpg" alt="Parte de Cima" width=100% /> -->
+
 <h1 align="center">
     Seja bem vindo(a)(e) ! 
 </h1>
 <p align="center">
     <b>Me chamo David Santos Magalhães, e esse é o meu perfil do GitHub espero que goste.</b>
 </p>
-
 <p align="center">
     Encontro-me a disposição em minhas redes sociais abaixo, caso tenha alguma dúvida referente a meus projetos, uma crítica construtiva ou qualquer outro assunto.
 </p>
-
 <p align="center">
     <a href="https://t.me/daviddsmdv" target="_blank">
         <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white" alt="Bradge Telegram" />
@@ -23,24 +22,17 @@
     <a href="mailto:davidsm2k@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white" alt="Bradge Gmail" />
     </a>
-</p>
+<a href="https://app.netlify.com/teams/davidsm2k/overview" target="_blank">
+<img src="https://imgur.com/oU2eS4c.jpg" style="zoom:27%; alt="Bradge Netlify" /></a></p>
+
+
 <details>
-    <summary><b>Sobre mim</b></summary>
-    <p>
- Atualmente sou aluno da Generation Brasil no Bootcamp de Desenvolvedor Full Stack Java Jr, onde estou tendo a oportunidade de mudar minha vida e com isso ganhar um grande conhecimento para minha carreira profissional. 
-Para acompanhar minhas atividades durante o Bootcamp <a href="https://github.com/davidsm2k/turma19java" >clique aqui</a>.
-
-
-
-
-Experiência Profissional: 4 anos de serviço militar na Força Aérea Brasileira (Mar 2017 / Mar 2021).
-
-Formação Acadêmica: Análise e Desenvolvimento de Sistemas (Jan 2019 / Dez 2020).
-
-Objetivo Atual: Estou a procura de oportunidades para iniciar minha carreira em desenvolvimento de software. 
-   </p>
-
-
+<summary><b>Sobre mim</b></summary>
+<p>Atualmente sou aluno da Generation Brasil no Bootcamp de Desenvolvedor Full Stack Java Jr, onde estou tendo a oportunidade de mudar minha vida e com isso ganhar um grande conhecimento para minha carreira profissional. 
+Para acompanhar minhas atividades durante o Bootcamp <a href="https://github.com/davidsm2k/turma19java" >clique aqui</a>.</p>
+<p>Experiência Profissional: 4 anos de serviço militar na Força Aérea Brasileira (Mar 2017 / Mar 2021).</p>
+<p>Formação Acadêmica: Análise e Desenvolvimento de Sistemas (Jan 2019 / Dez 2020).</p>
+<p>Objetivo Atual: Estou a procura de oportunidades para iniciar minha carreira em desenvolvimento de software.</p>
 </details>
 
 <details>
