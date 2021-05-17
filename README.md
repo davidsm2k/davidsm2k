@@ -22,8 +22,7 @@
     <a href="mailto:davidsm2k@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white" alt="Bradge Gmail" />
     </a>
-<a href="https://app.netlify.com/teams/davidsm2k/overview" target="_blank">
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Bradge Netlify" /></a></p>
+
 
 
 
