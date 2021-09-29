@@ -33,7 +33,6 @@
 <p>Generation Brasil: Formação para Desenvolvedor Full Stack Java Jr (Mar 2021 / Jun 2021) <a href="https://github.com/davidsm2k/turma19java" >arquivos</a>.</p>
 <p>Experiência Profissional: 4 anos de serviço militar na Força Aérea Brasileira (Mar 2017 / Mar 2021).</p>
 <p>Formação Acadêmica: Análise e Desenvolvimento de Sistemas (Jan 2019 / Dez 2020).</p>
-<p>Objetivo Atual: Estou a procura de oportunidades para iniciar minha carreira em desenvolvimento de software.</p>
 </details>
 
 
